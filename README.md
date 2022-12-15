@@ -6,7 +6,7 @@ Web Scraping, Data Cleaning, and Data Analysis
 Perform Web Scraping to extract police deaths data. Clean the extracted data and perform data analysis.
 
 ### Method ###
- - Use BeautifulSoup to extract data from Office Memorial Down Page (https://www.odmp.org/)
+ - Use BeautifulSoup to extract data from [Office Memorial Down Page](https://www.odmp.org/)
  - Clean the extracted data
  - Perform data analysis:
     - Determine the top reasons of police deaths
